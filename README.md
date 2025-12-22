@@ -1,1 +1,1 @@
-# Bin-Template
+# Bins
